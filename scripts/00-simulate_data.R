@@ -1,11 +1,10 @@
 #### Preamble ####
-# Purpose: Simulates a dataset of Australian electoral divisions, including the 
-  #state and party that won each division.
+# Purpose: Simulates a dataset of Premier League, including the spi and winning probability for each team.
 # Author: Xiyan Chen 
-# Date: 26 September 2024
+# Date: 3 December 2024
 # Contact: xiyan.chen@mail.utoronto.ca
 # License: MIT
-# Pre-requisites: The `tidyverse` package must be installed
+# Pre-requisites: The `tidyverse` and `dplyr`and `readr` package must be installed
 # Any other information needed? Make sure you are in the `starter_folder` rproj
 
 

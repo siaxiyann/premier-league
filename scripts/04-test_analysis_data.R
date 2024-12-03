@@ -1,8 +1,8 @@
 #### Preamble ####
-# Purpose: Tests the structure and validity of the dataset
+# Purpose: Tests the structure and validity of the analysis dataset
 # Author: Xiyan Chen
-# Date: 26 September 2024 [...UPDATE THIS...]
-# Contact: rohan.alexander@utoronto.ca [...UPDATE THIS...]
+# Date: 3 December 2024
+# Contact: xiyan.chen@mail.utoronto.ca
 # License: MIT
 # Pre-requisites: [...UPDATE THIS...]
 # Any other information needed? [...UPDATE THIS...]

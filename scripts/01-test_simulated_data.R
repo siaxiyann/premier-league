@@ -1,12 +1,11 @@
 #### Preamble ####
-# Purpose: Tests the structure and validity of the simulated Australian 
-  #electoral divisions dataset.
+# Purpose: Tests the structure and validity of the simulated Premier League data 
 # Author: Xiyan Chen
-# Date: 26 September 2024
+# Date: 3 December 2024
 # Contact: xiyan.chen@mail.utoronto.ca
 # License: MIT
 # Pre-requisites: 
-  # - The `tidyverse` package must be installed and loaded
+  # - The `tidyverse` and `dplyr` package must be installed and loaded
   # - 00-simulate_data.R must have been run
 # Any other information needed? Make sure you are in the `starter_folder` rproj
 

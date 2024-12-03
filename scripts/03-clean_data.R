@@ -1,11 +1,13 @@
 #### Preamble ####
-# Purpose: Cleans the raw plane data recorded by two observers..... [...UPDATE THIS...]
-# Author: Rohan Alexander [...UPDATE THIS...]
-# Date: 6 April 2023 [...UPDATE THIS...]
-# Contact: rohan.alexander@utoronto.ca [...UPDATE THIS...]
+# Purpose: Cleans the raw plane data, selecting data for only Premier League teams
+# Author: Xiyan Chen
+# Date: 3 December 2024
+# Contact: xiyan.chen@mail.utoronto.ca
 # License: MIT
-# Pre-requisites: [...UPDATE THIS...]
-# Any other information needed? [...UPDATE THIS...]
+# Pre-requisites: 
+# - The `tidyverse` package must be installed and loaded
+# - 00-simulate_data.R and 01-test_simulated_data and 02-download_data must have been run
+# Any other information needed? 
 
 #### Workspace setup ####
 library(tidyverse)
