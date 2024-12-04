@@ -16,9 +16,9 @@ data <- read_csv("/Users/chenxiyan/Downloads/starter_folder-main 4/data/02-analy
 
 
 #### Test data ####
-# Test that the dataset has 2660 rows - Premier League matches from 2016 to 2022
-test_that("dataset has 2660 rows", {
-  expect_equal(nrow(data), 2660)
+# Test that the dataset has 266 rows - Manchester City in Premier League had 266 matches from 2016 to 2022
+test_that("dataset has 266 rows", {
+  expect_equal(nrow(data), 266)
 })
 
 # Test that the dataset has 9 columns
