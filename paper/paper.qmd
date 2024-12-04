@@ -1,12 +1,12 @@
 ---
-title: "Prediction yingchao"
-subtitle: "My subtitle if needed"
+title: "Prediction of Premier League 2024 Champion Using Logistic Regression Model"
+subtitle: "Can Manchester City Continue Their Championship Reign?"
 author: 
   - Xiyan Chen
 thanks: "Code and data are available at: [https://github.com/RohanAlexander/starter_folder](https://github.com/RohanAlexander/starter_folder)."
 date: today
 date-format: long
-abstract: "First sentence. Second sentence. Third sentence. Fourth sentence."
+abstract: "This study predicts whether Manchester City can maintain their championship status in the 2024 Premier League season. By analyzing historical performance and using models based on match-specific probabilities and the Soccer Power Index (SPI), we assess their chances of continuing success. Our results suggest that Manchester City has a high probability of remaining at the top, supported by their consistent performance. This research highlights the value of statistical models in sports analytics and provides insights into the factors influencing championship outcomes."
 format: pdf
 number-sections: true
 bibliography: references.bib
@@ -19,13 +19,23 @@ bibliography: references.bib
 #| message: false
 
 library(tidyverse)
-library(rstanarm)
+library(ggplot2)
+library(dplyr)
+library(here)
+library(reshape2)
+library(scales)
+
+library(broom) 
+library(modelsummary)
 
 
 ```
 
 
 # Introduction
+
+As the 2024 Premier League season unfolds, Manchester City stands as a formidable contender for another championship title. Our predictive analysis suggests that they have a strong likelihood of continuing their dominance, leveraging key factors such as team performance metrics, historical data, and the Soccer Power Index (SPI). By utilizing advanced statistical models, including linear regression and probability analysis, we aim to provide an objective forecast of Manchester City's chances of maintaining their winning streak. This analysis is driven by the growing interest in data-driven sports predictions, offering insights not only for fans and analysts but also for teams looking to refine their strategies. Understanding the factors that contribute to success in the Premier League is crucial for shaping future expectations and enhancing the sports analytics field.
+
 
 Overview paragraph
 
@@ -45,14 +55,31 @@ Telegraphing paragraph: The remainder of this paper is structured as follows. @s
 # Data {#sec-data}
 
 ## Overview
+The dataset used in this analysis was sourced from FiveThirtyEight [@fivethirtyeight_dataset]. All analyses were conducted in R [@citeR]. Data cleaning and manipulation were performed using `tidyverse` [@tidyverse], with specific tasks carried out using `here` [@here], `readr` [@readr], and `dplyr` [@dplyr]. Data visualization was done using `ggplot2` [@ggplot2], while model evaluation were supported by `modelsummary` [@modelsummary].
 
-We use the statistical programming language R [@citeR].... Our data [@shelter].... Following @tellingstories, we consider...
+The dataset from FiveThirtyEight includes historical performance data for Premier League teams, featuring key match statistics and team strength indicators. For this analysis, we focused on match outcomes, team performance indicators such as the Soccer Power Index (SPI), and team rankings to predict the 2024 Premier League champion. 
 
-Overview text
+## Dataset Overview
+The dataset consists of data from multiple seasons of the Premier League, and key variables used in this analysis include:
+
+- **Team Name**: The name of the team playing in the Premier League.
+- **Match year**: The year when a match was played.
+- **Home Team**: The team playing at home.
+- **Away Team**: The team playing away.
+- **Home probability**: The probability of winning for the home team in each match.
+- **Away probability**: The probability of winning for the away team in each match.
+- **SPI (Soccer Power Index)**: A numerical representation of a team’s strength, used as an important predictor of future performance.
+
+Because this paper is focusing on if Manchester City can win the championship, so there're variables focus on the perspectives of Manchester City:
+- **outcome**: The outcome that shows if Manchester City wins the game.
+- **man_city_spi**: The Soccer Power Index for Manchester City
+- **man_city_prob**: The probability of winning for Manchester City on that game
+- **is_home**: The variable shows if Manchester City is play at home on each match
+
+The dataset was cleaned and pre-processed to focus on matches from the last six seasons, with the aim of using recent performance data for predictions. 
 
 ## Measurement
-	
-Some paragraphs about how we go from a phenomena in the world to an entry in the dataset.
+In this paper, we aim to predict the winner of the 2024 Premier League based on historical match data. The raw data was sourced from FiveThirtyEight's open dataset, which compiles match outcomes and team statistics over several Premier League seasons. This dataset includes key performance indicators such as the Soccer Power Index (SPI), match results, and rankings. The match data is linked to real-world events like football matches, with each match having a specific date, home team, away team, and scores. These variables are measured as follows: the match date is recorded to establish a time-based reference for analyzing team performance over the course of a season; home team and away team are categorical variables indicating which teams were playing at home or away, as location often influences match outcomes; home score and away score represent the number of goals scored by the respective teams, which directly reflect match outcomes (win, loss, or draw); the SPI is a numerical score that measures a team's strength, based on factors like goals scored, goals conceded, and opposition quality, providing insight into team potential beyond just match results. Additionally, team ranking is recorded, which reflects each team's position on the league table based on their performance over the season. These measurements allow us to capture not only the outcome of individual matches but also broader trends in team performance, which are critical for predicting the overall champion. Data preprocessing steps such as imputing missing values and calculating rolling averages for SPI and win/loss streaks were applied to refine the dataset for prediction. 
 
 ## Outcome variables
 
@@ -60,20 +87,13 @@ Add graphs, tables and text. Use sub-sub-headings for each outcome variable or u
 
 
 
-Some of our data is of penguins (@fig-bills), from @palmerpenguins.
+Some of our data is of penguins (@fig-bills), from @
 
 ```{r}
 #| label: fig-bills
 #| fig-cap: Bills of penguins
 #| echo: false
 
-ggplot(penguins, aes(x = island, fill = species)) +
-  geom_bar(alpha = 0.8) +
-  scale_fill_manual(values = c("darkorange","purple","cyan4"),
-                    guide = "none") +
-  theme_minimal() +
-  facet_wrap(~species, ncol = 1) +
-  coord_flip()
 ```
 
 Talk more about it.
@@ -87,14 +107,7 @@ And also planes (@fig-planes). (You can change the height and width, but don't w
 #| warning: false
 #| message: false
 
-analysis_data <- read_csv(here::here("data/02-analysis_data/analysis_data.csv"))
 
-analysis_data |> 
-  ggplot(aes(x = width, y = length)) +
-  geom_point(alpha = 0.8) +
-  theme_minimal() +
-  labs(x = "Wing width (mm)",
-       y = "Wing length (mm)")
 ```
 
 Talk way more about it. 
@@ -153,10 +166,7 @@ Our results are summarized in @tbl-modelresults.
 #| warning: false
 #| message: false
 
-library(rstanarm)
 
-model <-
-  readRDS(file = here::here("downloads/starter_folder-main 4/models/model.rds"))
 ```
 
 ```{r}
@@ -166,13 +176,7 @@ model <-
 #| tbl-cap: "Explanatory models of flight time based on wing width and wing length"
 #| warning: false
 
-modelsummary::modelsummary(
-  list(
-    "First model" = first_model
-  ),
-  statistic = "mad",
-  fmt = 2
-)
+
 ```
 
 The model results in @tbl-modelresults indicates that the logistic regression model shows that The Soccer Power Index (man_city_spi) and whether the team playing at home influencing Manchester City’s probability of winning. The intercept is negative (-8.437), representing the log-odds of Manchester City winning when all other variables are zero (i.e., when man_city_spi is 0 and the game is an away match). The p-value of 0.0421 suggests that the intercept is statistically significant at the 5% level.
@@ -191,17 +195,15 @@ Finally, for better stability and to address potential issues like overfitting o
 
 ## First discussion point {#sec-first-point}
 
-If my paper were 10 pages, then should be be at least 2.5 pages. The discussion is a chance to show off what you know and what you learnt from all this. 
 
 ## Second discussion point
 
-Please don't use these as sub-heading labels - change them to be what your point actually is.
 
 ## Third discussion point
 
 ## Weaknesses and next steps
-
-Weaknesses and next steps should also be included.
+There are limitations in the measurements, such as potential bias in the home team advantage and the inability of SPI to account for sudden changes in team dynamics (like player injuries or transfers), which could affect match outcomes. Despite these limitations, the dataset provides reliable data for predicting the 2024 Premier League champion based on historical trends and current team performance.
+The Soccer Power Index (SPI) is derived from past performance, which may not always reflect a team's true potential. Factors like injuries or player transfers, which could drastically affect team performance, are not always captured in the SPI.
 
 \newpage
 
@@ -230,15 +232,7 @@ In @fig-ppcheckandposteriorvsprior-2 we compare the posterior with the prior. Th
 #| fig-cap: "Examining how the model fits, and is affected by, the data"
 #| fig-subcap: ["Posterior prediction check", "Comparing the posterior with the prior"]
 
-pp_check(first_model) +
-  theme_classic() +
-  theme(legend.position = "bottom")
 
-posterior_vs_prior(first_model) +
-  theme_minimal() +
-  scale_color_brewer(palette = "Set1") +
-  theme(legend.position = "bottom") +
-  coord_flip()
 ```
 
 ## Diagnostics
@@ -257,9 +251,7 @@ posterior_vs_prior(first_model) +
 #| fig-subcap: ["Trace plot", "Rhat plot"]
 #| layout-ncol: 2
 
-plot(first_model, "trace")
 
-plot(first_model, "rhat")
 ```
 
 
