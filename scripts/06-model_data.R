@@ -13,25 +13,25 @@ library(tidyverse)
 library(rstanarm)
 
 #### Read data ####
-analysis_data <- read_csv("data/analysis_data/analysis_data.csv")
+analysis_data <- read_csv("downloads/starter_folder-main 4/data/02-analysis_data/analysis_data.csv")
+
 
 ### Model data ####
-first_model <-
-  stan_glm(
-    formula = flying_time ~ length + width,
-    data = analysis_data,
-    family = gaussian(),
-    prior = normal(location = 0, scale = 2.5, autoscale = TRUE),
-    prior_intercept = normal(location = 0, scale = 2.5, autoscale = TRUE),
-    prior_aux = exponential(rate = 1, autoscale = TRUE),
-    seed = 853
-  )
+# Fit logistic regression model
+model <- glm(
+  formula = outcome ~ man_city_spi + is_home,
+  family = binomial(),
+  data = analysis_data,
+  na.action = na.omit
+)
+
+# Check if the model was successfully created
+summary(model) 
 
 
 #### Save model ####
 saveRDS(
-  first_model,
-  file = "models/first_model.rds"
+  model,
+  file = "downloads/starter_folder-main 4/models/model.rds"
 )
-
 

@@ -1,9 +1,8 @@
 ---
-title: "My title"
+title: "Prediction yingchao"
 subtitle: "My subtitle if needed"
 author: 
-  - First author
-  - Another author
+  - Xiyan Chen
 thanks: "Code and data are available at: [https://github.com/RohanAlexander/starter_folder](https://github.com/RohanAlexander/starter_folder)."
 date: today
 date-format: long
@@ -13,13 +12,16 @@ number-sections: true
 bibliography: references.bib
 ---
 
+
 ```{r}
 #| include: false
 #| warning: false
 #| message: false
 
 library(tidyverse)
-library(palmerpenguins)
+library(rstanarm)
+
+
 ```
 
 
@@ -132,6 +134,8 @@ y_i|\mu_i, \sigma &\sim \mbox{Normal}(\mu_i, \sigma) \\
 We run the model in R [@citeR] using the `rstanarm` package of @rstanarm. We use the default priors from `rstanarm`.
 
 
+
+
 ### Model justification
 
 We expect a positive relationship between the size of the wings and time spent aloft. In particular...
@@ -151,8 +155,8 @@ Our results are summarized in @tbl-modelresults.
 
 library(rstanarm)
 
-first_model <-
-  readRDS(file = here::here("models/first_model.rds"))
+model <-
+  readRDS(file = here::here("downloads/starter_folder-main 4/models/model.rds"))
 ```
 
 ```{r}
@@ -171,6 +175,15 @@ modelsummary::modelsummary(
 )
 ```
 
+The model results in @tbl-modelresults indicates that the logistic regression model shows that The Soccer Power Index (man_city_spi) and whether the team playing at home influencing Manchester City’s probability of winning. The intercept is negative (-8.437), representing the log-odds of Manchester City winning when all other variables are zero (i.e., when man_city_spi is 0 and the game is an away match). The p-value of 0.0421 suggests that the intercept is statistically significant at the 5% level.
+
+The Soccer Power Index (man_city_spi) has a positive coefficient (0.09712), meaning that as Manchester City’s SPI increases, their odds of winning also increase. This relationship is statistically significant, with a p-value of 0.0318. The significance of this variable confirms that the SPI is a meaningful predictor of Manchester City’s performance. Additionally, the is_home variable, which accounts for the home advantage, also shows a positive and highly significant relationship with the outcome. The coefficient (1.15870) indicates that playing at home significantly improves Manchester City’s chances of winning, and the very low p-value (9.45e-05) underscores the strength of this effect. These findings align with general observations in sports, where teams tend to perform better at home due to familiar conditions and supportive crowds.
+
+The model’s performance metrics also show improvement. The reduction in deviance from the null deviance (312.61) to the residual deviance (291.84) indicates that including predictors like man_city_spi and is_home improves the model’s explanatory power. Furthermore, the Akaike Information Criterion (AIC) value of 297.84 suggests a reasonable balance between model fit and complexity, though it’s best used in comparison with other models.
+
+To further evaluate the model, it is essential to assess its predictive performance using metrics like accuracy, precision, recall, and the Area Under the Curve (AUC). Techniques like ROC curves or confusion matrices can provide additional insights into how well the model performs on unseen data. If the model’s performance needs enhancement, incorporating additional features such as the strength of opponents, team form, or historical trends could improve prediction accuracy.
+
+Finally, for better stability and to address potential issues like overfitting or multicollinearity, applying regularization techniques like Lasso or Ridge regression could be considered. Moreover, interpreting the coefficients in terms of odds ratios reveals that a one-unit increase in SPI corresponds to approximately a 10% increase in the odds of Manchester City winning, highlighting the practical implications of the predictors.
 
 
 

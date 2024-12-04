@@ -1,267 +1,267 @@
-season,league_id,league,team1,team2,spi1,spi2,prob1,prob2
-2016,2411,Barclays Premier League,Manchester City,Sunderland,86.42,53.64,0.8152,0.0525
-2016,2411,Barclays Premier League,Stoke City,Manchester City,60.42,85.71,0.1278,0.672
-2016,2411,Barclays Premier League,Manchester City,West Ham United,86.14,63.98,0.7687,0.078
-2016,2411,Barclays Premier League,Manchester United,Manchester City,82.18,86.26,0.3845,0.3543
-2016,2411,Barclays Premier League,Manchester City,AFC Bournemouth,87.58,59.4,0.8085,0.06
-2016,2411,Barclays Premier League,Swansea City,Manchester City,58.75,88.31,0.0688,0.7915
-2016,2411,Barclays Premier League,Tottenham Hotspur,Manchester City,76.15,88.4,0.2359,0.5285
-2016,2411,Barclays Premier League,Manchester City,Everton,87.7,70.14,0.7338,0.0949
-2016,2411,Barclays Premier League,Manchester City,Southampton,87.29,71.47,0.7119,0.1044
-2016,2411,Barclays Premier League,West Bromwich Albion,Manchester City,59.65,86.91,0.1021,0.7235
-2016,2411,Barclays Premier League,Manchester City,Middlesbrough,88.27,54.97,0.8142,0.0497
-2016,2411,Barclays Premier League,Crystal Palace,Manchester City,59.07,87.88,0.0759,0.78
-2016,2411,Barclays Premier League,Burnley,Manchester City,53.12,87.72,0.0601,0.8024
-2016,2411,Barclays Premier League,Manchester City,Chelsea,87.48,86.11,0.4914,0.2601
-2016,2411,Barclays Premier League,Leicester City,Manchester City,60.72,86.39,0.11,0.7096
-2016,2411,Barclays Premier League,Manchester City,Watford,85.04,60.14,0.7818,0.0742
-2016,2411,Barclays Premier League,Manchester City,Arsenal,85.1,84.33,0.4823,0.2837
-2016,2411,Barclays Premier League,Hull City,Manchester City,43.77,85.43,0.0528,0.8176
-2016,2411,Barclays Premier League,Liverpool,Manchester City,84.12,85.88,0.4176,0.3366
-2016,2411,Barclays Premier League,Manchester City,Burnley,85.57,57.33,0.7931,0.0588
-2016,2411,Barclays Premier League,Everton,Manchester City,68.57,84.63,0.2179,0.5358
-2016,2411,Barclays Premier League,Manchester City,Tottenham Hotspur,83.25,82.3,0.4706,0.2669
-2016,2411,Barclays Premier League,West Ham United,Manchester City,64,83.71,0.1786,0.6038
-2016,2411,Barclays Premier League,Manchester City,Swansea City,85.09,55.86,0.8052,0.0618
-2016,2411,Barclays Premier League,AFC Bournemouth,Manchester City,59.26,85.03,0.1165,0.7088
-2016,2411,Barclays Premier League,Sunderland,Manchester City,47.18,85.75,0.0609,0.8008
-2016,2411,Barclays Premier League,Manchester City,Stoke City,86.04,63.38,0.7566,0.0756
-2016,2411,Barclays Premier League,Manchester City,Liverpool,84.96,80.54,0.5552,0.2117
-2016,2411,Barclays Premier League,Arsenal,Manchester City,78.22,84.76,0.329,0.4288
-2016,2411,Barclays Premier League,Chelsea,Manchester City,84.62,84.8,0.4585,0.275
-2016,2411,Barclays Premier League,Manchester City,Hull City,84.87,48.81,0.8208,0.0488
-2016,2411,Barclays Premier League,Southampton,Manchester City,68.32,84.78,0.2159,0.5359
-2016,2411,Barclays Premier League,Manchester City,Manchester United,85.88,83.39,0.4958,0.2335
-2016,2411,Barclays Premier League,Middlesbrough,Manchester City,47.67,86.02,0.0759,0.7484
-2016,2411,Barclays Premier League,Manchester City,Crystal Palace,85.35,61.04,0.7702,0.0722
-2016,2411,Barclays Premier League,Manchester City,Leicester City,86.44,62.43,0.7725,0.0697
-2016,2411,Barclays Premier League,Manchester City,West Bromwich Albion,85.93,57.63,0.7865,0.0579
-2016,2411,Barclays Premier League,Watford,Manchester City,57.88,85.99,0.1029,0.7178
-2017,2411,Barclays Premier League,Brighton and Hove Albion,Manchester City,47.43,84.21,0.1143,0.6987
-2017,2411,Barclays Premier League,Manchester City,Everton,84.84,67.1,0.6746,0.1256
-2017,2411,Barclays Premier League,AFC Bournemouth,Manchester City,55.41,84.47,0.1546,0.6423
-2017,2411,Barclays Premier League,Manchester City,Liverpool,84.62,78.47,0.5436,0.2212
-2017,2411,Barclays Premier League,Watford,Manchester City,58.11,86.94,0.1484,0.6394
-2017,2411,Barclays Premier League,Manchester City,Crystal Palace,88.5,56.07,0.8554,0.0333
-2017,2411,Barclays Premier League,Chelsea,Manchester City,84.68,89.65,0.3615,0.3843
-2017,2411,Barclays Premier League,Manchester City,Stoke City,90.03,60.16,0.8492,0.0362
-2017,2411,Barclays Premier League,Manchester City,Burnley,90.45,59.63,0.8536,0.0334
-2017,2411,Barclays Premier League,West Bromwich Albion,Manchester City,53.6,90.78,0.0899,0.7388
-2017,2411,Barclays Premier League,Manchester City,Arsenal,90.78,78.33,0.667,0.1481
-2017,2411,Barclays Premier League,Leicester City,Manchester City,63.07,90.88,0.1343,0.6819
-2017,2411,Barclays Premier League,Huddersfield Town,Manchester City,46.05,90.79,0.0605,0.7995
-2017,2411,Barclays Premier League,Manchester City,Southampton,90.49,61.73,0.8402,0.0386
-2017,2411,Barclays Premier League,Manchester City,West Ham United,89.8,52.86,0.8932,0.0243
-2017,2411,Barclays Premier League,Manchester United,Manchester City,82.58,89.17,0.3433,0.409
-2017,2411,Barclays Premier League,Swansea City,Manchester City,52.61,89.57,0.097,0.7219
-2017,2411,Barclays Premier League,Manchester City,Tottenham Hotspur,90.4,83.3,0.5701,0.1985
-2017,2411,Barclays Premier League,Manchester City,AFC Bournemouth,91.23,53.98,0.9011,0.0205
-2017,2411,Barclays Premier League,Newcastle,Manchester City,52.51,91.28,0.0777,0.7801
-2017,2411,Barclays Premier League,Crystal Palace,Manchester City,62.21,91.43,0.1216,0.6947
-2017,2411,Barclays Premier League,Manchester City,Watford,91,56.42,0.89,0.0252
-2017,2411,Barclays Premier League,Liverpool,Manchester City,86.29,90.58,0.3596,0.3981
-2017,2411,Barclays Premier League,Manchester City,Newcastle,90.38,52.25,0.8981,0.018
-2017,2411,Barclays Premier League,Manchester City,West Bromwich Albion,90.09,55.97,0.8688,0.0243
-2017,2411,Barclays Premier League,Burnley,Manchester City,59.84,90.45,0.1259,0.6629
-2017,2411,Barclays Premier League,Manchester City,Leicester City,90.09,65.07,0.8136,0.0541
-2017,2411,Barclays Premier League,Arsenal,Manchester City,80.23,91.2,0.2606,0.5247
-2017,2411,Barclays Premier League,Manchester City,Chelsea,91.52,80.94,0.6392,0.1551
-2017,2411,Barclays Premier League,Stoke City,Manchester City,52.97,90.64,0.0854,0.7581
-2017,2411,Barclays Premier League,Everton,Manchester City,59.77,90.81,0.113,0.7118
-2017,2411,Barclays Premier League,Manchester City,Manchester United,90.2,78.9,0.6337,0.1497
-2017,2411,Barclays Premier League,Tottenham Hotspur,Manchester City,86.93,89.53,0.4029,0.3384
-2017,2411,Barclays Premier League,Manchester City,Swansea City,90.46,52.2,0.8978,0.0168
-2017,2411,Barclays Premier League,West Ham United,Manchester City,53.92,91.08,0.0822,0.7793
-2017,2411,Barclays Premier League,Manchester City,Huddersfield Town,91.33,46.98,0.9151,0.0116
-2017,2411,Barclays Premier League,Manchester City,Brighton and Hove Albion,90.49,55.03,0.8822,0.0208
-2017,2411,Barclays Premier League,Southampton,Manchester City,60.42,90.05,0.1295,0.675
-2018,2411,Barclays Premier League,Arsenal,Manchester City,81.57,92.13,0.2765,0.4894
-2018,2411,Barclays Premier League,Manchester City,Huddersfield Town,92.53,59.29,0.8927,0.0146
-2018,2411,Barclays Premier League,Wolverhampton,Manchester City,63.22,92.69,0.0943,0.7304
-2018,2411,Barclays Premier League,Manchester City,Newcastle,92.43,67.01,0.8643,0.0264
-2018,2411,Barclays Premier League,Manchester City,Fulham,92.22,62.99,0.8748,0.0282
-2018,2411,Barclays Premier League,Cardiff City,Manchester City,59.83,92.29,0.0886,0.7432
-2018,2411,Barclays Premier League,Manchester City,Brighton and Hove Albion,93.2,63.83,0.8899,0.0212
-2018,2411,Barclays Premier League,Liverpool,Manchester City,90.64,93.72,0.3758,0.3658
-2018,2411,Barclays Premier League,Manchester City,Burnley,93.78,59.88,0.9113,0.0132
-2018,2411,Barclays Premier League,Tottenham Hotspur,Manchester City,84.81,94.35,0.2415,0.5145
-2018,2411,Barclays Premier League,Manchester City,Southampton,94.33,66.09,0.9039,0.013
-2018,2411,Barclays Premier League,Manchester City,Manchester United,95,79.05,0.8018,0.0635
-2018,2411,Barclays Premier League,West Ham United,Manchester City,67.25,94.85,0.0866,0.7579
-2018,2411,Barclays Premier League,Manchester City,AFC Bournemouth,94.66,67.41,0.905,0.0203
-2018,2411,Barclays Premier League,Watford,Manchester City,69.69,94.47,0.0891,0.7465
-2018,2411,Barclays Premier League,Chelsea,Manchester City,86.18,94.07,0.277,0.479
-2018,2411,Barclays Premier League,Manchester City,Everton,93.75,70.93,0.8822,0.0247
-2018,2411,Barclays Premier League,Manchester City,Crystal Palace,93.13,68.34,0.8791,0.0236
-2018,2411,Barclays Premier League,Leicester City,Manchester City,70.74,92.36,0.1276,0.6776
-2018,2411,Barclays Premier League,Southampton,Manchester City,66.79,91.81,0.1363,0.6801
-2018,2411,Barclays Premier League,Manchester City,Liverpool,92.29,92.88,0.4402,0.3156
-2018,2411,Barclays Premier League,Manchester City,Wolverhampton,92.17,69.77,0.8499,0.0337
-2018,2411,Barclays Premier League,Huddersfield Town,Manchester City,59.48,92.77,0.0722,0.7699
-2018,2411,Barclays Premier League,Newcastle,Manchester City,64.47,93.14,0.0918,0.7383
-2018,2411,Barclays Premier League,Manchester City,Arsenal,92.61,79.4,0.6931,0.1279
-2018,2411,Barclays Premier League,Everton,Manchester City,70.17,92.87,0.1076,0.7179
-2018,2411,Barclays Premier League,Manchester City,Chelsea,93.37,84.42,0.6417,0.1484
-2018,2411,Barclays Premier League,Manchester City,West Ham United,93.65,66.76,0.9077,0.0186
-2018,2411,Barclays Premier League,AFC Bournemouth,Manchester City,65.28,93.79,0.0741,0.7952
-2018,2411,Barclays Premier League,Manchester City,Watford,94.15,69.58,0.8961,0.0214
-2018,2411,Barclays Premier League,Fulham,Manchester City,56.72,94.7,0.0382,0.866
-2018,2411,Barclays Premier League,Manchester City,Cardiff City,94.84,57.68,0.9389,0.008
-2018,2411,Barclays Premier League,Crystal Palace,Manchester City,71.09,94.51,0.0858,0.7473
-2018,2411,Barclays Premier League,Manchester City,Tottenham Hotspur,94.85,84.13,0.7047,0.1114
-2018,2411,Barclays Premier League,Manchester United,Manchester City,76.84,94.68,0.1526,0.65
-2018,2411,Barclays Premier League,Burnley,Manchester City,67.14,94.57,0.067,0.7916
-2018,2411,Barclays Premier League,Manchester City,Leicester City,94.49,74.37,0.885,0.0204
-2018,2411,Barclays Premier League,Brighton and Hove Albion,Manchester City,58.23,94.24,0.0346,0.8527
-2019,2411,Barclays Premier League,West Ham United,Manchester City,69.97,94.24,0.0997,0.7393
-2019,2411,Barclays Premier League,Manchester City,Tottenham Hotspur,94.37,85.29,0.6913,0.1201
-2019,2411,Barclays Premier League,AFC Bournemouth,Manchester City,68.67,94.54,0.0899,0.7651
-2019,2411,Barclays Premier League,Manchester City,Brighton and Hove Albion,94.68,64.45,0.9146,0.0133
-2019,2411,Barclays Premier League,Norwich City,Manchester City,62.87,94.69,0.0712,0.7928
-2019,2411,Barclays Premier League,Manchester City,Watford,94.87,68.34,0.892,0.0273
-2019,2411,Barclays Premier League,Everton,Manchester City,76.51,95.46,0.1276,0.6904
-2019,2411,Barclays Premier League,Manchester City,Wolverhampton,95.75,71.81,0.8938,0.0226
-2019,2411,Barclays Premier League,Crystal Palace,Manchester City,71.43,95.22,0.1049,0.7376
-2019,2411,Barclays Premier League,Manchester City,Aston Villa,95.41,66.15,0.9164,0.0194
-2019,2411,Barclays Premier League,Manchester City,Southampton,95.42,65.92,0.918,0.0188
-2019,2411,Barclays Premier League,Liverpool,Manchester City,92.71,95.44,0.3757,0.3972
-2019,2411,Barclays Premier League,Manchester City,Chelsea,95.24,87.16,0.6756,0.1476
-2019,2411,Barclays Premier League,Newcastle,Manchester City,64.07,94.74,0.0799,0.7812
-2019,2411,Barclays Premier League,Burnley,Manchester City,70.9,94.79,0.107,0.7362
-2019,2411,Barclays Premier League,Manchester City,Manchester United,95.01,80.08,0.7926,0.0693
-2019,2411,Barclays Premier League,Arsenal,Manchester City,75.54,94.9,0.1524,0.6789
-2019,2411,Barclays Premier League,Manchester City,Leicester City,95.29,83.55,0.7512,0.0927
-2019,2411,Barclays Premier League,Wolverhampton,Manchester City,76.49,95.47,0.1503,0.6578
-2019,2411,Barclays Premier League,Manchester City,Sheffield United,94.53,71.91,0.8507,0.0398
-2019,2411,Barclays Premier League,Manchester City,Everton,94.17,77.82,0.7866,0.0721
-2019,2411,Barclays Premier League,Aston Villa,Manchester City,61.64,93.85,0.1068,0.752
-2019,2411,Barclays Premier League,Manchester City,Crystal Palace,94.12,69.69,0.8569,0.0374
-2019,2411,Barclays Premier League,Sheffield United,Manchester City,73.52,93.89,0.1586,0.6434
-2019,2411,Barclays Premier League,Tottenham Hotspur,Manchester City,80.09,94.11,0.2429,0.5505
-2019,2411,Barclays Premier League,Manchester City,West Ham United,94.28,64.85,0.8652,0.0425
-2019,2411,Barclays Premier League,Leicester City,Manchester City,81.41,94.51,0.2246,0.5619
-2019,2411,Barclays Premier League,Manchester United,Manchester City,83.94,95.12,0.296,0.4708
-2019,2411,Barclays Premier League,Manchester City,Arsenal,94.8,76.77,0.7727,0.0828
-2019,2411,Barclays Premier League,Manchester City,Burnley,94.93,71.17,0.82,0.0536
-2019,2411,Barclays Premier League,Chelsea,Manchester City,85.43,95.08,0.2474,0.5277
-2019,2411,Barclays Premier League,Manchester City,Liverpool,94.66,92.83,0.422,0.3393
-2019,2411,Barclays Premier League,Southampton,Manchester City,70.96,95.13,0.2199,0.5727
-2019,2411,Barclays Premier League,Manchester City,Newcastle,95.07,64.28,0.6549,0.1573
-2019,2411,Barclays Premier League,Brighton and Hove Albion,Manchester City,71.4,95.24,0.2039,0.5838
-2019,2411,Barclays Premier League,Manchester City,AFC Bournemouth,95.61,64.49,0.8547,0.0465
-2019,2411,Barclays Premier League,Watford,Manchester City,71.04,95.31,0.121,0.7094
-2019,2411,Barclays Premier League,Manchester City,Norwich City,95.44,53.58,0.7125,0.1256
-2020,2411,Barclays Premier League,Wolverhampton,Manchester City,78.54,94.11,0.1549,0.6341
-2020,2411,Barclays Premier League,Manchester City,Leicester City,94.16,79.59,0.7425,0.0957
-2020,2411,Barclays Premier League,Leeds United,Manchester City,64.26,92.85,0.0873,0.771
-2020,2411,Barclays Premier League,Manchester City,Arsenal,92.02,78.56,0.6943,0.1291
-2020,2411,Barclays Premier League,West Ham United,Manchester City,74.1,92,0.1623,0.6501
-2020,2411,Barclays Premier League,Sheffield United,Manchester City,67.42,92.5,0.1012,0.7229
-2020,2411,Barclays Premier League,Manchester City,Liverpool,92.97,88.64,0.5277,0.2537
-2020,2411,Barclays Premier League,Tottenham Hotspur,Manchester City,82.27,92.84,0.2468,0.5255
-2020,2411,Barclays Premier League,Manchester City,Burnley,93.52,66.74,0.8416,0.0382
-2020,2411,Barclays Premier League,Manchester City,Fulham,93.9,63.43,0.8799,0.0285
-2020,2411,Barclays Premier League,Manchester United,Manchester City,84.18,93.95,0.2507,0.5214
-2020,2411,Barclays Premier League,Manchester City,West Bromwich Albion,93.68,55.23,0.9287,0.0101
-2020,2411,Barclays Premier League,Southampton,Manchester City,75.59,93.53,0.1438,0.6553
-2020,2411,Barclays Premier League,Manchester City,Newcastle,93.28,63.45,0.8936,0.0175
-2020,2411,Barclays Premier League,Chelsea,Manchester City,86.79,93.3,0.2705,0.4809
-2020,2411,Barclays Premier League,Manchester City,Brighton and Hove Albion,93.69,73.17,0.8545,0.0328
-2020,2411,Barclays Premier League,Manchester City,Crystal Palace,93.67,67.05,0.9004,0.0144
-2020,2411,Barclays Premier League,Manchester City,Aston Villa,93.6,78.55,0.7839,0.0667
-2020,2411,Barclays Premier League,West Bromwich Albion,Manchester City,52.98,93.77,0.0283,0.8816
-2020,2411,Barclays Premier League,Manchester City,Sheffield United,93.83,64.36,0.8958,0.0151
-2020,2411,Barclays Premier League,Burnley,Manchester City,66.73,93.54,0.06,0.7825
-2020,2411,Barclays Premier League,Liverpool,Manchester City,89.42,93.48,0.2765,0.4696
-2020,2411,Barclays Premier League,Manchester City,Tottenham Hotspur,93.81,77.94,0.77,0.0718
-2020,2411,Barclays Premier League,Everton,Manchester City,71.12,93.92,0.1062,0.7132
-2020,2411,Barclays Premier League,Arsenal,Manchester City,81.35,93.85,0.1828,0.5831
-2020,2411,Barclays Premier League,Manchester City,West Ham United,93.84,76.06,0.7711,0.0684
-2020,2411,Barclays Premier League,Manchester City,Wolverhampton,93.5,72.31,0.8354,0.0313
-2020,2411,Barclays Premier League,Manchester City,Manchester United,93.73,86.89,0.5838,0.1837
-2020,2411,Barclays Premier League,Manchester City,Southampton,93.58,69.55,0.8503,0.0314
-2020,2411,Barclays Premier League,Fulham,Manchester City,71.75,93.83,0.1434,0.6381
-2020,2411,Barclays Premier League,Leicester City,Manchester City,79.29,93.71,0.2198,0.5392
-2020,2411,Barclays Premier League,Manchester City,Leeds United,93.67,71.56,0.7441,0.0948
-2020,2411,Barclays Premier League,Aston Villa,Manchester City,73.79,93.67,0.1287,0.6732
-2020,2411,Barclays Premier League,Crystal Palace,Manchester City,58.83,93.52,0.0632,0.7974
-2020,2411,Barclays Premier League,Manchester City,Chelsea,93.26,89.41,0.4704,0.2544
-2020,2411,Barclays Premier League,Newcastle,Manchester City,64.74,93.19,0.2169,0.5628
-2020,2411,Barclays Premier League,Brighton and Hove Albion,Manchester City,78.08,93.24,0.2723,0.467
-2020,2411,Barclays Premier League,Manchester City,Everton,92.39,73.32,0.5487,0.2148
-2021,2411,Barclays Premier League,Tottenham Hotspur,Manchester City,78.71,91.76,0.2239,0.5563
-2021,2411,Barclays Premier League,Manchester City,Norwich City,91.64,60.67,0.8281,0.0455
-2021,2411,Barclays Premier League,Manchester City,Arsenal,92.21,77.96,0.6898,0.1171
-2021,2411,Barclays Premier League,Leicester City,Manchester City,74.87,93.26,0.1543,0.644
-2021,2411,Barclays Premier League,Manchester City,Southampton,93.48,66.77,0.8315,0.0484
-2021,2411,Barclays Premier League,Chelsea,Manchester City,89.27,93.14,0.3239,0.4144
-2021,2411,Barclays Premier League,Liverpool,Manchester City,89.7,93.61,0.3452,0.422
-2021,2411,Barclays Premier League,Manchester City,Burnley,93.5,63.54,0.8511,0.0378
-2021,2411,Barclays Premier League,Brighton and Hove Albion,Manchester City,74.63,93.93,0.1188,0.6837
-2021,2411,Barclays Premier League,Manchester City,Crystal Palace,93.74,67.28,0.8408,0.043
-2021,2411,Barclays Premier League,Manchester United,Manchester City,81.64,93.05,0.2246,0.5617
-2021,2411,Barclays Premier League,Manchester City,Everton,93.57,70.29,0.8212,0.0543
-2021,2411,Barclays Premier League,Manchester City,West Ham United,93.63,78.53,0.7035,0.1182
-2021,2411,Barclays Premier League,Aston Villa,Manchester City,71.44,93.61,0.1059,0.7263
-2021,2411,Barclays Premier League,Watford,Manchester City,63.36,93.34,0.0825,0.7695
-2021,2411,Barclays Premier League,Manchester City,Wolverhampton,93.17,71.5,0.8165,0.0441
-2021,2411,Barclays Premier League,Manchester City,Leeds United,93.31,70.79,0.8072,0.0597
-2021,2411,Barclays Premier League,Newcastle,Manchester City,59.31,94.14,0.0588,0.8219
-2021,2411,Barclays Premier League,Manchester City,Leicester City,94.42,72.19,0.8188,0.0598
-2021,2411,Barclays Premier League,Brentford,Manchester City,67.65,93.72,0.0841,0.7714
-2021,2411,Barclays Premier League,Arsenal,Manchester City,81.94,93.72,0.2212,0.5526
-2021,2411,Barclays Premier League,Manchester City,Chelsea,93.87,88.63,0.5859,0.1945
-2021,2411,Barclays Premier League,Southampton,Manchester City,67.66,93.93,0.0914,0.751
-2021,2411,Barclays Premier League,Manchester City,Brentford,93.71,66.53,0.8435,0.0412
-2021,2411,Barclays Premier League,Norwich City,Manchester City,56.14,93.59,0.0543,0.8132
-2021,2411,Barclays Premier League,Manchester City,Tottenham Hotspur,94.18,76.95,0.7379,0.0988
-2021,2411,Barclays Premier League,Everton,Manchester City,66.06,93.82,0.0811,0.7747
-2021,2411,Barclays Premier League,Manchester City,Manchester United,93.83,79.26,0.712,0.1128
-2021,2411,Barclays Premier League,Crystal Palace,Manchester City,72.77,93.75,0.0942,0.737
-2021,2411,Barclays Premier League,Burnley,Manchester City,64.37,93.73,0.0745,0.7671
-2021,2411,Barclays Premier League,Manchester City,Liverpool,93.42,93.24,0.4436,0.3075
-2021,2411,Barclays Premier League,Manchester City,Brighton and Hove Albion,93.18,76.02,0.7941,0.0497
-2021,2411,Barclays Premier League,Manchester City,Watford,93.18,58.81,0.9064,0.0145
-2021,2411,Barclays Premier League,Leeds United,Manchester City,63.57,93.65,0.0746,0.788
-2021,2411,Barclays Premier League,Manchester City,Newcastle,93.5,70.25,0.8385,0.0362
-2021,2411,Barclays Premier League,Wolverhampton,Manchester City,70.26,93.6,0.0773,0.759
-2021,2411,Barclays Premier League,West Ham United,Manchester City,74.2,93.69,0.1031,0.7264
-2021,2411,Barclays Premier League,Manchester City,Aston Villa,93.4,76.61,0.7856,0.0672
-2022,2411,Barclays Premier League,West Ham United,Manchester City,70.62,92.31,0.1317,0.6905
-2022,2411,Barclays Premier League,Manchester City,AFC Bournemouth,92.69,58.63,0.8742,0.0294
-2022,2411,Barclays Premier League,Newcastle,Manchester City,70.07,92.86,0.12,0.6966
-2022,2411,Barclays Premier League,Manchester City,Crystal Palace,92,72.54,0.7715,0.0789
-2022,2411,Barclays Premier League,Manchester City,Nottingham Forest,92.1,56.56,0.8898,0.0256
-2022,2411,Barclays Premier League,Aston Villa,Manchester City,70.15,92.24,0.1268,0.7024
-2022,2411,Barclays Premier League,Wolverhampton,Manchester City,67.59,92.7,0.0998,0.7353
-2022,2411,Barclays Premier League,Manchester City,Manchester United,92.98,75.94,0.7386,0.1028
-2022,2411,Barclays Premier League,Manchester City,Southampton,93.14,63.19,0.8709,0.0386
-2022,2411,Barclays Premier League,Liverpool,Manchester City,88.56,93.1,0.3363,0.4505
-2022,2411,Barclays Premier League,Manchester City,Brighton and Hove Albion,92.97,77.37,0.7326,0.1015
-2022,2411,Barclays Premier League,Leicester City,Manchester City,67.99,92.91,0.1117,0.7293
-2022,2411,Barclays Premier League,Manchester City,Fulham,92.84,61.51,0.8706,0.0363
-2022,2411,Barclays Premier League,Manchester City,Brentford,92.5,65.97,0.8472,0.0455
-2022,2411,Barclays Premier League,Leeds United,Manchester City,65.11,91.17,0.1178,0.7252
-2022,2411,Barclays Premier League,Manchester City,Everton,91.43,60.12,0.8494,0.0419
-2022,2411,Barclays Premier League,Chelsea,Manchester City,80.32,91.1,0.237,0.5339
-2022,2411,Barclays Premier League,Manchester United,Manchester City,81.17,91.4,0.2601,0.5156
-2022,2411,Barclays Premier League,Manchester City,Tottenham Hotspur,90.94,78.11,0.6625,0.15310000000000001
-2022,2411,Barclays Premier League,Manchester City,Wolverhampton,90.73,63.33,0.8089,0.0544
-2022,2411,Barclays Premier League,Tottenham Hotspur,Manchester City,78.27,90.83,0.24,0.5484
-2022,2411,Barclays Premier League,Manchester City,Aston Villa,90.29,72.19,0.765,0.0791
-2022,2411,Barclays Premier League,Arsenal,Manchester City,84.52,90.44,0.3337,0.4266
-2022,2411,Barclays Premier League,Nottingham Forest,Manchester City,57.98,90.67,0.0787,0.7704
-2022,2411,Barclays Premier League,AFC Bournemouth,Manchester City,56.55,90.74,0.0841,0.7691
-2022,2411,Barclays Premier League,Manchester City,Newcastle,90.45,79.7,0.6416,0.1529
-2022,2411,Barclays Premier League,Crystal Palace,Manchester City,66.57,90.6,0.1049,0.711
-2022,2411,Barclays Premier League,Manchester City,Liverpool,92.28,84.35,0.61240000000000006,0.1927
-2022,2411,Barclays Premier League,Southampton,Manchester City,62.26,92.97,0.0834,0.7672
-2022,2411,Barclays Premier League,Manchester City,Leicester City,93.52,65.76,0.8533,0.0427
-2022,2411,Barclays Premier League,Manchester City,Arsenal,92.3,82.84,0.622,0.1904
-2022,2411,Barclays Premier League,Fulham,Manchester City,66.03,92.52,0.0878,0.7635
-2022,2411,Barclays Premier League,Manchester City,West Ham United,92.37,71.41,0.8132,0.0607
-2022,2411,Barclays Premier League,Manchester City,Leeds United,92.55,59.94,0.8478,0.0501
-2022,2411,Barclays Premier League,Everton,Manchester City,61.96,92.39,0.0894,0.7693
-2022,2411,Barclays Premier League,Manchester City,Chelsea,92.87,76.53,0.5458,0.2267
-2022,2411,Barclays Premier League,Brighton and Hove Albion,Manchester City,81.36,92.87,0.3173,0.4603
-2022,2411,Barclays Premier League,Brentford,Manchester City,76.27,92.73,0.2831,0.4847
+season,league_id,league,team1,team2,spi1,spi2,prob1,prob2,man_city_spi,man_city_prob,outcome,is_home
+2016,2411,Barclays Premier League,Manchester City,Sunderland,86.42,53.64,0.8152,0.0525,86.42,0.8152,1,1
+2016,2411,Barclays Premier League,Stoke City,Manchester City,60.42,85.71,0.1278,0.672,85.71,0.672,1,0
+2016,2411,Barclays Premier League,Manchester City,West Ham United,86.14,63.98,0.7687,0.078,86.14,0.7687,1,1
+2016,2411,Barclays Premier League,Manchester United,Manchester City,82.18,86.26,0.3845,0.3543,86.26,0.3543,0,0
+2016,2411,Barclays Premier League,Manchester City,AFC Bournemouth,87.58,59.4,0.8085,0.06,87.58,0.8085,1,1
+2016,2411,Barclays Premier League,Swansea City,Manchester City,58.75,88.31,0.0688,0.7915,88.31,0.7915,1,0
+2016,2411,Barclays Premier League,Tottenham Hotspur,Manchester City,76.15,88.4,0.2359,0.5285,88.4,0.5285,0,0
+2016,2411,Barclays Premier League,Manchester City,Everton,87.7,70.14,0.7338,0.0949,87.7,0.7338,1,1
+2016,2411,Barclays Premier League,Manchester City,Southampton,87.29,71.47,0.7119,0.1044,87.29,0.7119,1,1
+2016,2411,Barclays Premier League,West Bromwich Albion,Manchester City,59.65,86.91,0.1021,0.7235,86.91,0.7235,1,0
+2016,2411,Barclays Premier League,Manchester City,Middlesbrough,88.27,54.97,0.8142,0.0497,88.27,0.8142,1,1
+2016,2411,Barclays Premier League,Crystal Palace,Manchester City,59.07,87.88,0.0759,0.78,87.88,0.78,1,0
+2016,2411,Barclays Premier League,Burnley,Manchester City,53.12,87.72,0.0601,0.8024,87.72,0.8024,1,0
+2016,2411,Barclays Premier League,Manchester City,Chelsea,87.48,86.11,0.4914,0.2601,87.48,0.4914,0,1
+2016,2411,Barclays Premier League,Leicester City,Manchester City,60.72,86.39,0.11,0.7096,86.39,0.7096,1,0
+2016,2411,Barclays Premier League,Manchester City,Watford,85.04,60.14,0.7818,0.0742,85.04,0.7818,1,1
+2016,2411,Barclays Premier League,Manchester City,Arsenal,85.1,84.33,0.4823,0.2837,85.1,0.4823,0,1
+2016,2411,Barclays Premier League,Hull City,Manchester City,43.77,85.43,0.0528,0.8176,85.43,0.8176,1,0
+2016,2411,Barclays Premier League,Liverpool,Manchester City,84.12,85.88,0.4176,0.3366,85.88,0.3366,0,0
+2016,2411,Barclays Premier League,Manchester City,Burnley,85.57,57.33,0.7931,0.0588,85.57,0.7931,1,1
+2016,2411,Barclays Premier League,Everton,Manchester City,68.57,84.63,0.2179,0.5358,84.63,0.5358,0,0
+2016,2411,Barclays Premier League,Manchester City,Tottenham Hotspur,83.25,82.3,0.4706,0.2669,83.25,0.4706,0,1
+2016,2411,Barclays Premier League,West Ham United,Manchester City,64,83.71,0.1786,0.6038,83.71,0.6038,0,0
+2016,2411,Barclays Premier League,Manchester City,Swansea City,85.09,55.86,0.8052,0.0618,85.09,0.8052,1,1
+2016,2411,Barclays Premier League,AFC Bournemouth,Manchester City,59.26,85.03,0.1165,0.7088,85.03,0.7088,1,0
+2016,2411,Barclays Premier League,Sunderland,Manchester City,47.18,85.75,0.0609,0.8008,85.75,0.8008,1,0
+2016,2411,Barclays Premier League,Manchester City,Stoke City,86.04,63.38,0.7566,0.0756,86.04,0.7566,1,1
+2016,2411,Barclays Premier League,Manchester City,Liverpool,84.96,80.54,0.5552,0.2117,84.96,0.5552,0,1
+2016,2411,Barclays Premier League,Arsenal,Manchester City,78.22,84.76,0.329,0.4288,84.76,0.4288,0,0
+2016,2411,Barclays Premier League,Chelsea,Manchester City,84.62,84.8,0.4585,0.275,84.8,0.275,0,0
+2016,2411,Barclays Premier League,Manchester City,Hull City,84.87,48.81,0.8208,0.0488,84.87,0.8208,1,1
+2016,2411,Barclays Premier League,Southampton,Manchester City,68.32,84.78,0.2159,0.5359,84.78,0.5359,0,0
+2016,2411,Barclays Premier League,Manchester City,Manchester United,85.88,83.39,0.4958,0.2335,85.88,0.4958,0,1
+2016,2411,Barclays Premier League,Middlesbrough,Manchester City,47.67,86.02,0.0759,0.7484,86.02,0.7484,1,0
+2016,2411,Barclays Premier League,Manchester City,Crystal Palace,85.35,61.04,0.7702,0.0722,85.35,0.7702,1,1
+2016,2411,Barclays Premier League,Manchester City,Leicester City,86.44,62.43,0.7725,0.0697,86.44,0.7725,1,1
+2016,2411,Barclays Premier League,Manchester City,West Bromwich Albion,85.93,57.63,0.7865,0.0579,85.93,0.7865,1,1
+2016,2411,Barclays Premier League,Watford,Manchester City,57.88,85.99,0.1029,0.7178,85.99,0.7178,1,0
+2017,2411,Barclays Premier League,Brighton and Hove Albion,Manchester City,47.43,84.21,0.1143,0.6987,84.21,0.6987,1,0
+2017,2411,Barclays Premier League,Manchester City,Everton,84.84,67.1,0.6746,0.1256,84.84,0.6746,1,1
+2017,2411,Barclays Premier League,AFC Bournemouth,Manchester City,55.41,84.47,0.1546,0.6423,84.47,0.6423,0,0
+2017,2411,Barclays Premier League,Manchester City,Liverpool,84.62,78.47,0.5436,0.2212,84.62,0.5436,0,1
+2017,2411,Barclays Premier League,Watford,Manchester City,58.11,86.94,0.1484,0.6394,86.94,0.6394,0,0
+2017,2411,Barclays Premier League,Manchester City,Crystal Palace,88.5,56.07,0.8554,0.0333,88.5,0.8554,1,1
+2017,2411,Barclays Premier League,Chelsea,Manchester City,84.68,89.65,0.3615,0.3843,89.65,0.3843,0,0
+2017,2411,Barclays Premier League,Manchester City,Stoke City,90.03,60.16,0.8492,0.0362,90.03,0.8492,1,1
+2017,2411,Barclays Premier League,Manchester City,Burnley,90.45,59.63,0.8536,0.0334,90.45,0.8536,1,1
+2017,2411,Barclays Premier League,West Bromwich Albion,Manchester City,53.6,90.78,0.0899,0.7388,90.78,0.7388,1,0
+2017,2411,Barclays Premier League,Manchester City,Arsenal,90.78,78.33,0.667,0.1481,90.78,0.667,1,1
+2017,2411,Barclays Premier League,Leicester City,Manchester City,63.07,90.88,0.1343,0.6819,90.88,0.6819,1,0
+2017,2411,Barclays Premier League,Huddersfield Town,Manchester City,46.05,90.79,0.0605,0.7995,90.79,0.7995,1,0
+2017,2411,Barclays Premier League,Manchester City,Southampton,90.49,61.73,0.8402,0.0386,90.49,0.8402,1,1
+2017,2411,Barclays Premier League,Manchester City,West Ham United,89.8,52.86,0.8932,0.0243,89.8,0.8932,1,1
+2017,2411,Barclays Premier League,Manchester United,Manchester City,82.58,89.17,0.3433,0.409,89.17,0.409,0,0
+2017,2411,Barclays Premier League,Swansea City,Manchester City,52.61,89.57,0.097,0.7219,89.57,0.7219,1,0
+2017,2411,Barclays Premier League,Manchester City,Tottenham Hotspur,90.4,83.3,0.5701,0.1985,90.4,0.5701,0,1
+2017,2411,Barclays Premier League,Manchester City,AFC Bournemouth,91.23,53.98,0.9011,0.0205,91.23,0.9011,1,1
+2017,2411,Barclays Premier League,Newcastle,Manchester City,52.51,91.28,0.0777,0.7801,91.28,0.7801,1,0
+2017,2411,Barclays Premier League,Crystal Palace,Manchester City,62.21,91.43,0.1216,0.6947,91.43,0.6947,1,0
+2017,2411,Barclays Premier League,Manchester City,Watford,91,56.42,0.89,0.0252,91,0.89,1,1
+2017,2411,Barclays Premier League,Liverpool,Manchester City,86.29,90.58,0.3596,0.3981,90.58,0.3981,0,0
+2017,2411,Barclays Premier League,Manchester City,Newcastle,90.38,52.25,0.8981,0.018,90.38,0.8981,1,1
+2017,2411,Barclays Premier League,Manchester City,West Bromwich Albion,90.09,55.97,0.8688,0.0243,90.09,0.8688,1,1
+2017,2411,Barclays Premier League,Burnley,Manchester City,59.84,90.45,0.1259,0.6629,90.45,0.6629,1,0
+2017,2411,Barclays Premier League,Manchester City,Leicester City,90.09,65.07,0.8136,0.0541,90.09,0.8136,1,1
+2017,2411,Barclays Premier League,Arsenal,Manchester City,80.23,91.2,0.2606,0.5247,91.2,0.5247,0,0
+2017,2411,Barclays Premier League,Manchester City,Chelsea,91.52,80.94,0.6392,0.1551,91.52,0.6392,0,1
+2017,2411,Barclays Premier League,Stoke City,Manchester City,52.97,90.64,0.0854,0.7581,90.64,0.7581,1,0
+2017,2411,Barclays Premier League,Everton,Manchester City,59.77,90.81,0.113,0.7118,90.81,0.7118,1,0
+2017,2411,Barclays Premier League,Manchester City,Manchester United,90.2,78.9,0.6337,0.1497,90.2,0.6337,0,1
+2017,2411,Barclays Premier League,Tottenham Hotspur,Manchester City,86.93,89.53,0.4029,0.3384,89.53,0.3384,0,0
+2017,2411,Barclays Premier League,Manchester City,Swansea City,90.46,52.2,0.8978,0.0168,90.46,0.8978,1,1
+2017,2411,Barclays Premier League,West Ham United,Manchester City,53.92,91.08,0.0822,0.7793,91.08,0.7793,1,0
+2017,2411,Barclays Premier League,Manchester City,Huddersfield Town,91.33,46.98,0.9151,0.0116,91.33,0.9151,1,1
+2017,2411,Barclays Premier League,Manchester City,Brighton and Hove Albion,90.49,55.03,0.8822,0.0208,90.49,0.8822,1,1
+2017,2411,Barclays Premier League,Southampton,Manchester City,60.42,90.05,0.1295,0.675,90.05,0.675,1,0
+2018,2411,Barclays Premier League,Arsenal,Manchester City,81.57,92.13,0.2765,0.4894,92.13,0.4894,0,0
+2018,2411,Barclays Premier League,Manchester City,Huddersfield Town,92.53,59.29,0.8927,0.0146,92.53,0.8927,1,1
+2018,2411,Barclays Premier League,Wolverhampton,Manchester City,63.22,92.69,0.0943,0.7304,92.69,0.7304,1,0
+2018,2411,Barclays Premier League,Manchester City,Newcastle,92.43,67.01,0.8643,0.0264,92.43,0.8643,1,1
+2018,2411,Barclays Premier League,Manchester City,Fulham,92.22,62.99,0.8748,0.0282,92.22,0.8748,1,1
+2018,2411,Barclays Premier League,Cardiff City,Manchester City,59.83,92.29,0.0886,0.7432,92.29,0.7432,1,0
+2018,2411,Barclays Premier League,Manchester City,Brighton and Hove Albion,93.2,63.83,0.8899,0.0212,93.2,0.8899,1,1
+2018,2411,Barclays Premier League,Liverpool,Manchester City,90.64,93.72,0.3758,0.3658,93.72,0.3658,0,0
+2018,2411,Barclays Premier League,Manchester City,Burnley,93.78,59.88,0.9113,0.0132,93.78,0.9113,1,1
+2018,2411,Barclays Premier League,Tottenham Hotspur,Manchester City,84.81,94.35,0.2415,0.5145,94.35,0.5145,0,0
+2018,2411,Barclays Premier League,Manchester City,Southampton,94.33,66.09,0.9039,0.013,94.33,0.9039,1,1
+2018,2411,Barclays Premier League,Manchester City,Manchester United,95,79.05,0.8018,0.0635,95,0.8018,1,1
+2018,2411,Barclays Premier League,West Ham United,Manchester City,67.25,94.85,0.0866,0.7579,94.85,0.7579,1,0
+2018,2411,Barclays Premier League,Manchester City,AFC Bournemouth,94.66,67.41,0.905,0.0203,94.66,0.905,1,1
+2018,2411,Barclays Premier League,Watford,Manchester City,69.69,94.47,0.0891,0.7465,94.47,0.7465,1,0
+2018,2411,Barclays Premier League,Chelsea,Manchester City,86.18,94.07,0.277,0.479,94.07,0.479,0,0
+2018,2411,Barclays Premier League,Manchester City,Everton,93.75,70.93,0.8822,0.0247,93.75,0.8822,1,1
+2018,2411,Barclays Premier League,Manchester City,Crystal Palace,93.13,68.34,0.8791,0.0236,93.13,0.8791,1,1
+2018,2411,Barclays Premier League,Leicester City,Manchester City,70.74,92.36,0.1276,0.6776,92.36,0.6776,1,0
+2018,2411,Barclays Premier League,Southampton,Manchester City,66.79,91.81,0.1363,0.6801,91.81,0.6801,1,0
+2018,2411,Barclays Premier League,Manchester City,Liverpool,92.29,92.88,0.4402,0.3156,92.29,0.4402,0,1
+2018,2411,Barclays Premier League,Manchester City,Wolverhampton,92.17,69.77,0.8499,0.0337,92.17,0.8499,1,1
+2018,2411,Barclays Premier League,Huddersfield Town,Manchester City,59.48,92.77,0.0722,0.7699,92.77,0.7699,1,0
+2018,2411,Barclays Premier League,Newcastle,Manchester City,64.47,93.14,0.0918,0.7383,93.14,0.7383,1,0
+2018,2411,Barclays Premier League,Manchester City,Arsenal,92.61,79.4,0.6931,0.1279,92.61,0.6931,1,1
+2018,2411,Barclays Premier League,Everton,Manchester City,70.17,92.87,0.1076,0.7179,92.87,0.7179,1,0
+2018,2411,Barclays Premier League,Manchester City,Chelsea,93.37,84.42,0.6417,0.1484,93.37,0.6417,0,1
+2018,2411,Barclays Premier League,Manchester City,West Ham United,93.65,66.76,0.9077,0.0186,93.65,0.9077,1,1
+2018,2411,Barclays Premier League,AFC Bournemouth,Manchester City,65.28,93.79,0.0741,0.7952,93.79,0.7952,1,0
+2018,2411,Barclays Premier League,Manchester City,Watford,94.15,69.58,0.8961,0.0214,94.15,0.8961,1,1
+2018,2411,Barclays Premier League,Fulham,Manchester City,56.72,94.7,0.0382,0.866,94.7,0.866,1,0
+2018,2411,Barclays Premier League,Manchester City,Cardiff City,94.84,57.68,0.9389,0.008,94.84,0.9389,1,1
+2018,2411,Barclays Premier League,Crystal Palace,Manchester City,71.09,94.51,0.0858,0.7473,94.51,0.7473,1,0
+2018,2411,Barclays Premier League,Manchester City,Tottenham Hotspur,94.85,84.13,0.7047,0.1114,94.85,0.7047,1,1
+2018,2411,Barclays Premier League,Manchester United,Manchester City,76.84,94.68,0.1526,0.65,94.68,0.65,0,0
+2018,2411,Barclays Premier League,Burnley,Manchester City,67.14,94.57,0.067,0.7916,94.57,0.7916,1,0
+2018,2411,Barclays Premier League,Manchester City,Leicester City,94.49,74.37,0.885,0.0204,94.49,0.885,1,1
+2018,2411,Barclays Premier League,Brighton and Hove Albion,Manchester City,58.23,94.24,0.0346,0.8527,94.24,0.8527,1,0
+2019,2411,Barclays Premier League,West Ham United,Manchester City,69.97,94.24,0.0997,0.7393,94.24,0.7393,1,0
+2019,2411,Barclays Premier League,Manchester City,Tottenham Hotspur,94.37,85.29,0.6913,0.1201,94.37,0.6913,1,1
+2019,2411,Barclays Premier League,AFC Bournemouth,Manchester City,68.67,94.54,0.0899,0.7651,94.54,0.7651,1,0
+2019,2411,Barclays Premier League,Manchester City,Brighton and Hove Albion,94.68,64.45,0.9146,0.0133,94.68,0.9146,1,1
+2019,2411,Barclays Premier League,Norwich City,Manchester City,62.87,94.69,0.0712,0.7928,94.69,0.7928,1,0
+2019,2411,Barclays Premier League,Manchester City,Watford,94.87,68.34,0.892,0.0273,94.87,0.892,1,1
+2019,2411,Barclays Premier League,Everton,Manchester City,76.51,95.46,0.1276,0.6904,95.46,0.6904,1,0
+2019,2411,Barclays Premier League,Manchester City,Wolverhampton,95.75,71.81,0.8938,0.0226,95.75,0.8938,1,1
+2019,2411,Barclays Premier League,Crystal Palace,Manchester City,71.43,95.22,0.1049,0.7376,95.22,0.7376,1,0
+2019,2411,Barclays Premier League,Manchester City,Aston Villa,95.41,66.15,0.9164,0.0194,95.41,0.9164,1,1
+2019,2411,Barclays Premier League,Manchester City,Southampton,95.42,65.92,0.918,0.0188,95.42,0.918,1,1
+2019,2411,Barclays Premier League,Liverpool,Manchester City,92.71,95.44,0.3757,0.3972,95.44,0.3972,0,0
+2019,2411,Barclays Premier League,Manchester City,Chelsea,95.24,87.16,0.6756,0.1476,95.24,0.6756,1,1
+2019,2411,Barclays Premier League,Newcastle,Manchester City,64.07,94.74,0.0799,0.7812,94.74,0.7812,1,0
+2019,2411,Barclays Premier League,Burnley,Manchester City,70.9,94.79,0.107,0.7362,94.79,0.7362,1,0
+2019,2411,Barclays Premier League,Manchester City,Manchester United,95.01,80.08,0.7926,0.0693,95.01,0.7926,1,1
+2019,2411,Barclays Premier League,Arsenal,Manchester City,75.54,94.9,0.1524,0.6789,94.9,0.6789,1,0
+2019,2411,Barclays Premier League,Manchester City,Leicester City,95.29,83.55,0.7512,0.0927,95.29,0.7512,1,1
+2019,2411,Barclays Premier League,Wolverhampton,Manchester City,76.49,95.47,0.1503,0.6578,95.47,0.6578,1,0
+2019,2411,Barclays Premier League,Manchester City,Sheffield United,94.53,71.91,0.8507,0.0398,94.53,0.8507,1,1
+2019,2411,Barclays Premier League,Manchester City,Everton,94.17,77.82,0.7866,0.0721,94.17,0.7866,1,1
+2019,2411,Barclays Premier League,Aston Villa,Manchester City,61.64,93.85,0.1068,0.752,93.85,0.752,1,0
+2019,2411,Barclays Premier League,Manchester City,Crystal Palace,94.12,69.69,0.8569,0.0374,94.12,0.8569,1,1
+2019,2411,Barclays Premier League,Sheffield United,Manchester City,73.52,93.89,0.1586,0.6434,93.89,0.6434,0,0
+2019,2411,Barclays Premier League,Tottenham Hotspur,Manchester City,80.09,94.11,0.2429,0.5505,94.11,0.5505,0,0
+2019,2411,Barclays Premier League,Manchester City,West Ham United,94.28,64.85,0.8652,0.0425,94.28,0.8652,1,1
+2019,2411,Barclays Premier League,Leicester City,Manchester City,81.41,94.51,0.2246,0.5619,94.51,0.5619,0,0
+2019,2411,Barclays Premier League,Manchester United,Manchester City,83.94,95.12,0.296,0.4708,95.12,0.4708,0,0
+2019,2411,Barclays Premier League,Manchester City,Arsenal,94.8,76.77,0.7727,0.0828,94.8,0.7727,1,1
+2019,2411,Barclays Premier League,Manchester City,Burnley,94.93,71.17,0.82,0.0536,94.93,0.82,1,1
+2019,2411,Barclays Premier League,Chelsea,Manchester City,85.43,95.08,0.2474,0.5277,95.08,0.5277,0,0
+2019,2411,Barclays Premier League,Manchester City,Liverpool,94.66,92.83,0.422,0.3393,94.66,0.422,0,1
+2019,2411,Barclays Premier League,Southampton,Manchester City,70.96,95.13,0.2199,0.5727,95.13,0.5727,0,0
+2019,2411,Barclays Premier League,Manchester City,Newcastle,95.07,64.28,0.6549,0.1573,95.07,0.6549,1,1
+2019,2411,Barclays Premier League,Brighton and Hove Albion,Manchester City,71.4,95.24,0.2039,0.5838,95.24,0.5838,0,0
+2019,2411,Barclays Premier League,Manchester City,AFC Bournemouth,95.61,64.49,0.8547,0.0465,95.61,0.8547,1,1
+2019,2411,Barclays Premier League,Watford,Manchester City,71.04,95.31,0.121,0.7094,95.31,0.7094,1,0
+2019,2411,Barclays Premier League,Manchester City,Norwich City,95.44,53.58,0.7125,0.1256,95.44,0.7125,1,1
+2020,2411,Barclays Premier League,Wolverhampton,Manchester City,78.54,94.11,0.1549,0.6341,94.11,0.6341,0,0
+2020,2411,Barclays Premier League,Manchester City,Leicester City,94.16,79.59,0.7425,0.0957,94.16,0.7425,1,1
+2020,2411,Barclays Premier League,Leeds United,Manchester City,64.26,92.85,0.0873,0.771,92.85,0.771,1,0
+2020,2411,Barclays Premier League,Manchester City,Arsenal,92.02,78.56,0.6943,0.1291,92.02,0.6943,1,1
+2020,2411,Barclays Premier League,West Ham United,Manchester City,74.1,92,0.1623,0.6501,92,0.6501,1,0
+2020,2411,Barclays Premier League,Sheffield United,Manchester City,67.42,92.5,0.1012,0.7229,92.5,0.7229,1,0
+2020,2411,Barclays Premier League,Manchester City,Liverpool,92.97,88.64,0.5277,0.2537,92.97,0.5277,0,1
+2020,2411,Barclays Premier League,Tottenham Hotspur,Manchester City,82.27,92.84,0.2468,0.5255,92.84,0.5255,0,0
+2020,2411,Barclays Premier League,Manchester City,Burnley,93.52,66.74,0.8416,0.0382,93.52,0.8416,1,1
+2020,2411,Barclays Premier League,Manchester City,Fulham,93.9,63.43,0.8799,0.0285,93.9,0.8799,1,1
+2020,2411,Barclays Premier League,Manchester United,Manchester City,84.18,93.95,0.2507,0.5214,93.95,0.5214,0,0
+2020,2411,Barclays Premier League,Manchester City,West Bromwich Albion,93.68,55.23,0.9287,0.0101,93.68,0.9287,1,1
+2020,2411,Barclays Premier League,Southampton,Manchester City,75.59,93.53,0.1438,0.6553,93.53,0.6553,1,0
+2020,2411,Barclays Premier League,Manchester City,Newcastle,93.28,63.45,0.8936,0.0175,93.28,0.8936,1,1
+2020,2411,Barclays Premier League,Chelsea,Manchester City,86.79,93.3,0.2705,0.4809,93.3,0.4809,0,0
+2020,2411,Barclays Premier League,Manchester City,Brighton and Hove Albion,93.69,73.17,0.8545,0.0328,93.69,0.8545,1,1
+2020,2411,Barclays Premier League,Manchester City,Crystal Palace,93.67,67.05,0.9004,0.0144,93.67,0.9004,1,1
+2020,2411,Barclays Premier League,Manchester City,Aston Villa,93.6,78.55,0.7839,0.0667,93.6,0.7839,1,1
+2020,2411,Barclays Premier League,West Bromwich Albion,Manchester City,52.98,93.77,0.0283,0.8816,93.77,0.8816,1,0
+2020,2411,Barclays Premier League,Manchester City,Sheffield United,93.83,64.36,0.8958,0.0151,93.83,0.8958,1,1
+2020,2411,Barclays Premier League,Burnley,Manchester City,66.73,93.54,0.06,0.7825,93.54,0.7825,1,0
+2020,2411,Barclays Premier League,Liverpool,Manchester City,89.42,93.48,0.2765,0.4696,93.48,0.4696,0,0
+2020,2411,Barclays Premier League,Manchester City,Tottenham Hotspur,93.81,77.94,0.77,0.0718,93.81,0.77,1,1
+2020,2411,Barclays Premier League,Everton,Manchester City,71.12,93.92,0.1062,0.7132,93.92,0.7132,1,0
+2020,2411,Barclays Premier League,Arsenal,Manchester City,81.35,93.85,0.1828,0.5831,93.85,0.5831,0,0
+2020,2411,Barclays Premier League,Manchester City,West Ham United,93.84,76.06,0.7711,0.0684,93.84,0.7711,1,1
+2020,2411,Barclays Premier League,Manchester City,Wolverhampton,93.5,72.31,0.8354,0.0313,93.5,0.8354,1,1
+2020,2411,Barclays Premier League,Manchester City,Manchester United,93.73,86.89,0.5838,0.1837,93.73,0.5838,0,1
+2020,2411,Barclays Premier League,Manchester City,Southampton,93.58,69.55,0.8503,0.0314,93.58,0.8503,1,1
+2020,2411,Barclays Premier League,Fulham,Manchester City,71.75,93.83,0.1434,0.6381,93.83,0.6381,0,0
+2020,2411,Barclays Premier League,Leicester City,Manchester City,79.29,93.71,0.2198,0.5392,93.71,0.5392,0,0
+2020,2411,Barclays Premier League,Manchester City,Leeds United,93.67,71.56,0.7441,0.0948,93.67,0.7441,1,1
+2020,2411,Barclays Premier League,Aston Villa,Manchester City,73.79,93.67,0.1287,0.6732,93.67,0.6732,1,0
+2020,2411,Barclays Premier League,Crystal Palace,Manchester City,58.83,93.52,0.0632,0.7974,93.52,0.7974,1,0
+2020,2411,Barclays Premier League,Manchester City,Chelsea,93.26,89.41,0.4704,0.2544,93.26,0.4704,0,1
+2020,2411,Barclays Premier League,Newcastle,Manchester City,64.74,93.19,0.2169,0.5628,93.19,0.5628,0,0
+2020,2411,Barclays Premier League,Brighton and Hove Albion,Manchester City,78.08,93.24,0.2723,0.467,93.24,0.467,0,0
+2020,2411,Barclays Premier League,Manchester City,Everton,92.39,73.32,0.5487,0.2148,92.39,0.5487,0,1
+2021,2411,Barclays Premier League,Tottenham Hotspur,Manchester City,78.71,91.76,0.2239,0.5563,91.76,0.5563,0,0
+2021,2411,Barclays Premier League,Manchester City,Norwich City,91.64,60.67,0.8281,0.0455,91.64,0.8281,1,1
+2021,2411,Barclays Premier League,Manchester City,Arsenal,92.21,77.96,0.6898,0.1171,92.21,0.6898,1,1
+2021,2411,Barclays Premier League,Leicester City,Manchester City,74.87,93.26,0.1543,0.644,93.26,0.644,0,0
+2021,2411,Barclays Premier League,Manchester City,Southampton,93.48,66.77,0.8315,0.0484,93.48,0.8315,1,1
+2021,2411,Barclays Premier League,Chelsea,Manchester City,89.27,93.14,0.3239,0.4144,93.14,0.4144,0,0
+2021,2411,Barclays Premier League,Liverpool,Manchester City,89.7,93.61,0.3452,0.422,93.61,0.422,0,0
+2021,2411,Barclays Premier League,Manchester City,Burnley,93.5,63.54,0.8511,0.0378,93.5,0.8511,1,1
+2021,2411,Barclays Premier League,Brighton and Hove Albion,Manchester City,74.63,93.93,0.1188,0.6837,93.93,0.6837,1,0
+2021,2411,Barclays Premier League,Manchester City,Crystal Palace,93.74,67.28,0.8408,0.043,93.74,0.8408,1,1
+2021,2411,Barclays Premier League,Manchester United,Manchester City,81.64,93.05,0.2246,0.5617,93.05,0.5617,0,0
+2021,2411,Barclays Premier League,Manchester City,Everton,93.57,70.29,0.8212,0.0543,93.57,0.8212,1,1
+2021,2411,Barclays Premier League,Manchester City,West Ham United,93.63,78.53,0.7035,0.1182,93.63,0.7035,1,1
+2021,2411,Barclays Premier League,Aston Villa,Manchester City,71.44,93.61,0.1059,0.7263,93.61,0.7263,1,0
+2021,2411,Barclays Premier League,Watford,Manchester City,63.36,93.34,0.0825,0.7695,93.34,0.7695,1,0
+2021,2411,Barclays Premier League,Manchester City,Wolverhampton,93.17,71.5,0.8165,0.0441,93.17,0.8165,1,1
+2021,2411,Barclays Premier League,Manchester City,Leeds United,93.31,70.79,0.8072,0.0597,93.31,0.8072,1,1
+2021,2411,Barclays Premier League,Newcastle,Manchester City,59.31,94.14,0.0588,0.8219,94.14,0.8219,1,0
+2021,2411,Barclays Premier League,Manchester City,Leicester City,94.42,72.19,0.8188,0.0598,94.42,0.8188,1,1
+2021,2411,Barclays Premier League,Brentford,Manchester City,67.65,93.72,0.0841,0.7714,93.72,0.7714,1,0
+2021,2411,Barclays Premier League,Arsenal,Manchester City,81.94,93.72,0.2212,0.5526,93.72,0.5526,0,0
+2021,2411,Barclays Premier League,Manchester City,Chelsea,93.87,88.63,0.5859,0.1945,93.87,0.5859,0,1
+2021,2411,Barclays Premier League,Southampton,Manchester City,67.66,93.93,0.0914,0.751,93.93,0.751,1,0
+2021,2411,Barclays Premier League,Manchester City,Brentford,93.71,66.53,0.8435,0.0412,93.71,0.8435,1,1
+2021,2411,Barclays Premier League,Norwich City,Manchester City,56.14,93.59,0.0543,0.8132,93.59,0.8132,1,0
+2021,2411,Barclays Premier League,Manchester City,Tottenham Hotspur,94.18,76.95,0.7379,0.0988,94.18,0.7379,1,1
+2021,2411,Barclays Premier League,Everton,Manchester City,66.06,93.82,0.0811,0.7747,93.82,0.7747,1,0
+2021,2411,Barclays Premier League,Manchester City,Manchester United,93.83,79.26,0.712,0.1128,93.83,0.712,1,1
+2021,2411,Barclays Premier League,Crystal Palace,Manchester City,72.77,93.75,0.0942,0.737,93.75,0.737,1,0
+2021,2411,Barclays Premier League,Burnley,Manchester City,64.37,93.73,0.0745,0.7671,93.73,0.7671,1,0
+2021,2411,Barclays Premier League,Manchester City,Liverpool,93.42,93.24,0.4436,0.3075,93.42,0.4436,0,1
+2021,2411,Barclays Premier League,Manchester City,Brighton and Hove Albion,93.18,76.02,0.7941,0.0497,93.18,0.7941,1,1
+2021,2411,Barclays Premier League,Manchester City,Watford,93.18,58.81,0.9064,0.0145,93.18,0.9064,1,1
+2021,2411,Barclays Premier League,Leeds United,Manchester City,63.57,93.65,0.0746,0.788,93.65,0.788,1,0
+2021,2411,Barclays Premier League,Manchester City,Newcastle,93.5,70.25,0.8385,0.0362,93.5,0.8385,1,1
+2021,2411,Barclays Premier League,Wolverhampton,Manchester City,70.26,93.6,0.0773,0.759,93.6,0.759,1,0
+2021,2411,Barclays Premier League,West Ham United,Manchester City,74.2,93.69,0.1031,0.7264,93.69,0.7264,1,0
+2021,2411,Barclays Premier League,Manchester City,Aston Villa,93.4,76.61,0.7856,0.0672,93.4,0.7856,1,1
+2022,2411,Barclays Premier League,West Ham United,Manchester City,70.62,92.31,0.1317,0.6905,92.31,0.6905,1,0
+2022,2411,Barclays Premier League,Manchester City,AFC Bournemouth,92.69,58.63,0.8742,0.0294,92.69,0.8742,1,1
+2022,2411,Barclays Premier League,Newcastle,Manchester City,70.07,92.86,0.12,0.6966,92.86,0.6966,1,0
+2022,2411,Barclays Premier League,Manchester City,Crystal Palace,92,72.54,0.7715,0.0789,92,0.7715,1,1
+2022,2411,Barclays Premier League,Manchester City,Nottingham Forest,92.1,56.56,0.8898,0.0256,92.1,0.8898,1,1
+2022,2411,Barclays Premier League,Aston Villa,Manchester City,70.15,92.24,0.1268,0.7024,92.24,0.7024,1,0
+2022,2411,Barclays Premier League,Wolverhampton,Manchester City,67.59,92.7,0.0998,0.7353,92.7,0.7353,1,0
+2022,2411,Barclays Premier League,Manchester City,Manchester United,92.98,75.94,0.7386,0.1028,92.98,0.7386,1,1
+2022,2411,Barclays Premier League,Manchester City,Southampton,93.14,63.19,0.8709,0.0386,93.14,0.8709,1,1
+2022,2411,Barclays Premier League,Liverpool,Manchester City,88.56,93.1,0.3363,0.4505,93.1,0.4505,0,0
+2022,2411,Barclays Premier League,Manchester City,Brighton and Hove Albion,92.97,77.37,0.7326,0.1015,92.97,0.7326,1,1
+2022,2411,Barclays Premier League,Leicester City,Manchester City,67.99,92.91,0.1117,0.7293,92.91,0.7293,1,0
+2022,2411,Barclays Premier League,Manchester City,Fulham,92.84,61.51,0.8706,0.0363,92.84,0.8706,1,1
+2022,2411,Barclays Premier League,Manchester City,Brentford,92.5,65.97,0.8472,0.0455,92.5,0.8472,1,1
+2022,2411,Barclays Premier League,Leeds United,Manchester City,65.11,91.17,0.1178,0.7252,91.17,0.7252,1,0
+2022,2411,Barclays Premier League,Manchester City,Everton,91.43,60.12,0.8494,0.0419,91.43,0.8494,1,1
+2022,2411,Barclays Premier League,Chelsea,Manchester City,80.32,91.1,0.237,0.5339,91.1,0.5339,0,0
+2022,2411,Barclays Premier League,Manchester United,Manchester City,81.17,91.4,0.2601,0.5156,91.4,0.5156,0,0
+2022,2411,Barclays Premier League,Manchester City,Tottenham Hotspur,90.94,78.11,0.6625,0.15310000000000001,90.94,0.6625,1,1
+2022,2411,Barclays Premier League,Manchester City,Wolverhampton,90.73,63.33,0.8089,0.0544,90.73,0.8089,1,1
+2022,2411,Barclays Premier League,Tottenham Hotspur,Manchester City,78.27,90.83,0.24,0.5484,90.83,0.5484,0,0
+2022,2411,Barclays Premier League,Manchester City,Aston Villa,90.29,72.19,0.765,0.0791,90.29,0.765,1,1
+2022,2411,Barclays Premier League,Arsenal,Manchester City,84.52,90.44,0.3337,0.4266,90.44,0.4266,0,0
+2022,2411,Barclays Premier League,Nottingham Forest,Manchester City,57.98,90.67,0.0787,0.7704,90.67,0.7704,1,0
+2022,2411,Barclays Premier League,AFC Bournemouth,Manchester City,56.55,90.74,0.0841,0.7691,90.74,0.7691,1,0
+2022,2411,Barclays Premier League,Manchester City,Newcastle,90.45,79.7,0.6416,0.1529,90.45,0.6416,0,1
+2022,2411,Barclays Premier League,Crystal Palace,Manchester City,66.57,90.6,0.1049,0.711,90.6,0.711,1,0
+2022,2411,Barclays Premier League,Manchester City,Liverpool,92.28,84.35,0.61240000000000006,0.1927,92.28,0.61240000000000006,0,1
+2022,2411,Barclays Premier League,Southampton,Manchester City,62.26,92.97,0.0834,0.7672,92.97,0.7672,1,0
+2022,2411,Barclays Premier League,Manchester City,Leicester City,93.52,65.76,0.8533,0.0427,93.52,0.8533,1,1
+2022,2411,Barclays Premier League,Manchester City,Arsenal,92.3,82.84,0.622,0.1904,92.3,0.622,0,1
+2022,2411,Barclays Premier League,Fulham,Manchester City,66.03,92.52,0.0878,0.7635,92.52,0.7635,1,0
+2022,2411,Barclays Premier League,Manchester City,West Ham United,92.37,71.41,0.8132,0.0607,92.37,0.8132,1,1
+2022,2411,Barclays Premier League,Manchester City,Leeds United,92.55,59.94,0.8478,0.0501,92.55,0.8478,1,1
+2022,2411,Barclays Premier League,Everton,Manchester City,61.96,92.39,0.0894,0.7693,92.39,0.7693,1,0
+2022,2411,Barclays Premier League,Manchester City,Chelsea,92.87,76.53,0.5458,0.2267,92.87,0.5458,0,1
+2022,2411,Barclays Premier League,Brighton and Hove Albion,Manchester City,81.36,92.87,0.3173,0.4603,92.87,0.4603,0,0
+2022,2411,Barclays Premier League,Brentford,Manchester City,76.27,92.73,0.2831,0.4847,92.73,0.4847,0,0

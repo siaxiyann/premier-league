@@ -21,9 +21,9 @@ test_that("dataset has 266 rows", {
   expect_equal(nrow(data), 266)
 })
 
-# Test that the dataset has 9 columns
-test_that("dataset has 9 columns", {
-  expect_equal(ncol(data), 9)
+# Test that the dataset has 13 columns
+test_that("dataset has 13 columns", {
+  expect_equal(ncol(data), 13)
 })
 
 # Test that the 'team1' and 'team2' columns are character type
